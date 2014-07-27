@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-The repo for the Data Scientist’s Toolbox coursera class
+The repo for my Data Scientist’s Toolbox coursera class
